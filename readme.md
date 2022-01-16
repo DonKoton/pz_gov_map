@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 Profil zaufany (Trusted profile) - is a free method of confirming the identity of a Polish citizen in electronic administration systems. In this case, it is an alternative to a paid qualified signature.
 
 By comparing the obywatel.gov.pl website to the e-administration gate, thanks to which it is possible to submit applications, applications, complaints, fees and declarations to offices by electronic means without a personal visit to the office, the trusted profile itself should be compared to a personal key that allows every citizen using the e-services provided.
